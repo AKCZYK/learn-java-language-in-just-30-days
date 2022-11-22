@@ -12,35 +12,39 @@ Learn Java Language in just 30 Days !
 <details>
 <summary>Day 4 - 6</summary>
 
-YOUR TABLE
+- Basic Concepts
+- Operations
 
 </details>
 
 <details>
 <summary>Day 7 - 9</summary>
 
-YOUR TABLE
+- Loops
+- Control Statements
 
 </details>
 
 <details>
 <summary>Day 10 - 12</summary>
 
-YOUR TABLE
+- Arrays
 
 </details>
 
 <details>
 <summary>Day 13 - 15</summary>
 
-YOUR TABLE
+- Algorithms
+- Structure
 
 </details>
 
 <details>
 <summary>Day 16 - 19</summary>
 
-YOUR TABLE
+- Classes
+- Operators
 
 </details>
 
