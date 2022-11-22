@@ -4,7 +4,8 @@ Learn Java Language in just 30 Days !
 <details>
 <summary>Day 1 - 3</summary>
 
-YOUR TABLE
+- Language
+- Its Application
 
 </details>
 
