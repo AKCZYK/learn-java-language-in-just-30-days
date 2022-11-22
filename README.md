@@ -67,7 +67,7 @@ Learn Java Language in just 30 Days !
 <details>
 <summary>Day 26 - 28</summary>
 
-YOUR TABLE
+- OOPs Concept
 
 </details>
 
