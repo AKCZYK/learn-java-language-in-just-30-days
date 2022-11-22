@@ -74,6 +74,6 @@ Learn Java Language in just 30 Days !
 <details>
 <summary>Day 29 - 30</summary>
 
-YOUR TABLE
+- Revise Everything
 
 </details>
