@@ -51,14 +51,16 @@ Learn Java Language in just 30 Days !
 <details>
 <summary>Day 20 - 22</summary>
 
-YOUR TABLE
+- Exception
+- Files
 
 </details>
 
 <details>
 <summary>Day 23 - 25</summary>
 
-YOUR TABLE
+- Classes
+- Objects
 
 </details>
 
